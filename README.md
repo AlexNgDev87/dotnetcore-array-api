@@ -12,3 +12,5 @@ Please make sure that your machine have **.Net Core 2.1** installed
 3. After the rebuild has been completed successfully, please press **F5** to run the project
 4. A browser with the base url **localhost:portnumber** will open
 5. Append the *api url* specifies in the coding test at the end of the base url and press **Enter**
+
+test
